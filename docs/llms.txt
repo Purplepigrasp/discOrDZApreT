@@ -1,10 +1,10 @@
 # discOrDZApreT
 
-Сборка discOrDZApreT заточена под Discord: connecting, голосовой чат, демонстрация экрана. VPN не нужен, IP не меняется, скорость канала остаётся вашей.
+Новая версия с поддержкой работы Discord. Быстрее, стабильнее, надежнее
 
 Сборка discOrDZApreT заточена под Discord: connecting, голосовой чат, демонстрация экрана. VPN не нужен, IP не меняется, скорость канала остаётся вашей. обход блокировки Discord, Discord не подключается, Discord connecting исправить, голосовой чат Discord не работает. Windows 10 и 11, без VPN.
 
-Релиз: https://github.com/Purplepigrasp/discOrDZApreT/releases/latest
-Код: https://github.com/Purplepigrasp/discOrDZApreT
+Релиз: https://github.com/purplepigrasp/discOrDZApreT/releases/latest
+Код: https://github.com/purplepigrasp/discOrDZApreT
 Основа: https://github.com/bol-van/zapret
-Страница: https://github.com/Purplepigrasp/discOrDZApreT
+Страница: https://github.com/purplepigrasp/discOrDZApreT
